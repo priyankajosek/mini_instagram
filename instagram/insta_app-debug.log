@@ -1,0 +1,202 @@
+Not Found: /albums/priyanka
+Not Found: /published_albums/admins
+"GET /published_albums/admins?page=1 HTTP/1.1" 404 50
+Not Found: /publish_album/mountains
+"GET /publish_album/mountains HTTP/1.1" 404 4716
+Not Found: /publish_album/admin/mountains
+"GET /publish_album/admin/mountains HTTP/1.1" 404 35
+Not Found: /published_album/admin
+"GET /published_album/admin?page=1 HTTP/1.1" 404 4717
+Internal Server Error: /members/register_user
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view members.views.register_user didn't return an HttpResponse object. It returned None instead.
+"GET /members/register_user HTTP/1.1" 500 64697
+Not Found: /create_album/priyankaa
+"POST /create_album/priyankaa HTTP/1.1" 404 50
+Not Found: /add_photo/priyankaa/mountains
+"POST /add_photo/priyankaa/mountains HTTP/1.1" 404 50
+Not Found: /add_photo/priyanka/mountainss
+"POST /add_photo/priyanka/mountainss HTTP/1.1" 404 35
+Not Found: /add_hashtag/priyankaa/mountains
+"POST /add_hashtag/priyankaa/mountains HTTP/1.1" 404 50
+Not Found: /add_hashtag/priyanka/mountainss
+"POST /add_hashtag/priyanka/mountainss HTTP/1.1" 404 35
+Not Found: /display_album/priyankaa/mountains
+"GET /display_album/priyankaa/mountains?page=1 HTTP/1.1" 404 50
+Not Found: /display_album/priyanka/mountainss
+"GET /display_album/priyanka/mountainss?page=1 HTTP/1.1" 404 35
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /similar_users/priyankaa
+"GET /similar_users/priyankaa?page=1 HTTP/1.1" 404 50
+Not Found: /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 404 4872
+Not Found: /favicon.ico
+Not Found: /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 404 4872
+Not Found: /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/images/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 404 4872
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/mountains/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Not Found: /delete_photo/priyanka/ocean/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/ocean/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 404 35
+Internal Server Error: /delete_photo/priyanka/forest/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/priyanka/forest/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Internal Server Error: /delete_photo/admin/ocean/pexels-thach-tran-756856_1RShSbl.jpg
+"GET /delete_photo/admin/ocean/pexels-thach-tran-756856_1RShSbl.jpg HTTP/1.1" 500 60
+Not Found: /delete_photo/priyanka/ocean/c3fe0aea0121471db59360eca9376acd
+"GET /delete_photo/priyanka/ocean/c3fe0aea0121471db59360eca9376acd HTTP/1.1" 404 35
+Not Found: /delete_photo/priyanka/mountains/c3fe0aea0121471db59360eca9376acd
+"GET /delete_photo/priyanka/mountains/c3fe0aea0121471db59360eca9376acd HTTP/1.1" 404 38
+Not Found: /delete_album/admin/oceans
+"GET /delete_album/admin/oceans HTTP/1.1" 404 35
+Not Found: /delete_album/admins/oceans
+"GET /delete_album/admins/oceans HTTP/1.1" 404 50
+Not Found: /delete_album/admins/oceans
+"GET /delete_album/admins/oceans HTTP/1.1" 404 50
+Not Found: /delete_album/admin/oceans
+"GET /delete_album/admin/oceans HTTP/1.1" 404 35
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Internal Server Error: /delete_album/admins/oceans
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view insta_app.views.delete_album didn't return an HttpResponse object. It returned None instead.
+"GET /delete_album/admins/oceans HTTP/1.1" 500 66304
+Not Found: /delete_album/admin/oceans
+"DELETE /delete_album/admin/oceans HTTP/1.1" 404 35
+Not Found: /delete_album/admins/oceans
+"DELETE /delete_album/admins/oceans HTTP/1.1" 404 50
+Not Found: /albums
+"POST /albums HTTP/1.1" 404 4469
+Internal Server Error: /albums/priyanka
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 46, in albums
+    'album_id' : album.album_id})
+AttributeError: 'Album' object has no attribute 'album_id'
+"POST /albums/priyanka HTTP/1.1" 500 65410
+Not Found: /favicon.ico
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 324, in display_album
+    picture_details['caption'] = picture.caption.title
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75209
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if picture.caption:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75381
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if picture.caption:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75381
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if picture.caption:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75381
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if picture.caption:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75381
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if not picture.caption is None:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75405
+Internal Server Error: /display_album/priyanka/forest
+Traceback (most recent call last):
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\instagram\insta_app\views.py", line 325, in display_album
+    if not picture.caption is None:
+  File "C:\Users\priya\Desktop\Python\Yoro\Instagram\venv\lib\site-packages\django\db\models\fields\related_descriptors.py", line 421, in __get__
+    raise self.RelatedObjectDoesNotExist(
+insta_app.models.Picture.caption.RelatedObjectDoesNotExist: Picture has no caption.
+"GET /display_album/priyanka/forest HTTP/1.1" 500 75405
